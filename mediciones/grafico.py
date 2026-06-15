@@ -20,11 +20,14 @@ VOLUMEN = 300
 def graficar_medicion(tipo):
     print("Iniciando...")
 
-    if tipo != "Volumen":
-        x = np.linspace(10,70,10).astype(int)
+    if tipo == "Volumen":
+        x = np.linspace(10,VOLUMEN, 10).astype(int)
     
+    elif tipo == "No hay Sol":
+        x = np.linspace(10, 20, 10).astype(int)
+
     else:
-        x = np.linspace(10, VOLUMEN, 10).astype(int)
+        x = np.linspace(10, 70, 10).astype(int)
     
     resultados = tiempo_algoritmo(once_inicial, x, generar_datos, tipo)
 
@@ -47,4 +50,4 @@ def graficar_medicion(tipo):
     plt.show()
 
 if __name__ == "__main__":
-    graficar_medicion("Volumen")
+    graficar_medicion("No hay Sol")
