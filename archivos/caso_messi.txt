@@ -1,30 +1,20 @@
-Messi,Dybala,Otamendi
-Messi,Nico Gonzalez,Licha Martinez
-Messi,Pezzella,Dibu Martinez
-Messi,Cuti Romero,Dybala
-Messi,De Paul,Julian Alvarez
-Messi,Lautaro Martinez,Paredes
-Messi,Molina,Armani
-Messi,Paredes,Cuti Romero
-Messi,Correa,Di Maria
-Messi,Cuti Romero,Paredes
-Messi,Rulli,Messi
-Messi,Rulli,Montiel
-Messi,Palacios,Correa
-Messi,Nico Gonzalez,Licha Martinez
-Messi,Nico Gonzalez,Lautaro Martinez
-Messi,Palacios,Dibu Martinez
-Messi,Correa,Correa
-Messi,Armani,Julian Alvarez
-Messi,Guido Rodriguez,Tagliafico
-Messi,Messi,Dibu Martinez
-Messi,Dybala,Rulli
-Messi,Nico Gonzalez,Palacios
-Messi,Lautaro Martinez,Messi
-Messi,Correa,Pezzella
-Messi,De Paul,Cuti Romero
-Messi,Paredes,Acuña
-Messi,Garnacho,Messi
-Messi,Tagliafico,Rulli
-Messi,Garnacho,Licha Martinez
-Messi,Cuti Romero,Acuña
+Messi,Enzo Fernandez,Garnacho
+Messi,Dibu Martinez,Correa
+Messi,Tagliafico,De Paul
+Messi,Otamendi,Licha Martinez
+Messi,Messi,Enzo Fernandez
+Messi,Cuti Romero,De Paul
+Messi,Molina,Enzo Fernandez
+Messi,Licha Martinez,Guido Rodriguez
+Messi,Lautaro Martinez,Cuti Romero
+Messi,Di Maria,Guido Rodriguez
+Messi,Cuti Romero,De Paul
+Messi,Garnacho,Garnacho
+Messi,Armani,Palacios
+Messi,Garnacho,Enzo Fernandez
+Messi,Messi,Palacios
+Messi,Cuti Romero,Montiel
+Messi,Otamendi,Garnacho
+Messi,Armani,Otamendi
+Messi,Acuña,Acuña
+Messi,Dibu Martinez,Mac Allister

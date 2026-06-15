@@ -18,13 +18,3 @@ jugador1_16,jugador2_16
 jugador1_17,jugador2_17
 jugador1_18,jugador2_18
 jugador1_19,jugador2_19
-jugador1_20,jugador2_20
-jugador1_21,jugador2_21
-jugador1_22,jugador2_22
-jugador1_23,jugador2_23
-jugador1_24,jugador2_24
-jugador1_25,jugador2_25
-jugador1_26,jugador2_26
-jugador1_27,jugador2_27
-jugador1_28,jugador2_28
-jugador1_29,jugador2_29
