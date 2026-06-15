@@ -1,0 +1,20 @@
+Julian Alvarez,Messi,Cuti Romero,Paredes,Pezzella,Palacios,Di Maria,Acuña,Rulli,Correa,Molina,Enzo Fernandez,Lautaro Martinez,Lo Celso,De Paul
+Correa,Dybala,Guido Rodriguez,Julian Alvarez,Cuti Romero,Licha Martinez,Messi,Enzo Fernandez,Palacios,Montiel,Rulli,Armani,Garnacho,Dibu Martinez,Mac Allister
+Pezzella,De Paul,Guido Rodriguez,Acuña,Cuti Romero,Paredes,Nico Gonzalez,Dibu Martinez,Rulli,Garnacho,Mac Allister,Palacios,Otamendi,Lautaro Martinez,Armani
+Correa,Dibu Martinez,Nico Gonzalez,De Paul,Otamendi,Palacios,Molina,Lo Celso,Rulli,Dybala,Messi,Cuti Romero,Paredes,Tagliafico,Julian Alvarez
+Guido Rodriguez,Otamendi,De Paul,Julian Alvarez,Molina,Correa,Montiel,Armani,Lo Celso,Cuti Romero,Acuña,Nico Gonzalez,Mac Allister,Messi,Paredes
+Tagliafico,Montiel,Guido Rodriguez,Armani,Palacios,Dibu Martinez,Dybala,Lautaro Martinez,Lo Celso,Cuti Romero,Molina,Di Maria,Licha Martinez,Paredes,Otamendi
+Armani,Dybala,Mac Allister,Enzo Fernandez,Cuti Romero,Pezzella,Julian Alvarez,Dibu Martinez,De Paul,Acuña,Di Maria,Otamendi,Correa,Nico Gonzalez,Tagliafico
+Julian Alvarez,Palacios,Pezzella,Enzo Fernandez,Dybala,Nico Gonzalez,Acuña,Molina,Armani,Mac Allister,Otamendi,Di Maria,Tagliafico,Lautaro Martinez,Messi
+Garnacho,Montiel,Palacios,Pezzella,Acuña,Messi,Tagliafico,Dybala,Guido Rodriguez,Correa,Rulli,Lautaro Martinez,Paredes,Otamendi,Dibu Martinez
+De Paul,Palacios,Guido Rodriguez,Messi,Molina,Lautaro Martinez,Armani,Montiel,Correa,Rulli,Licha Martinez,Garnacho,Pezzella,Acuña,Cuti Romero
+Paredes,Tagliafico,Mac Allister,Di Maria,Licha Martinez,Dybala,Lo Celso,Nico Gonzalez,Rulli,Julian Alvarez,Garnacho,Dibu Martinez,Molina,Cuti Romero,Armani
+Dibu Martinez,Julian Alvarez,Lautaro Martinez,Armani,Correa,Molina,Di Maria,Otamendi,Paredes,Lo Celso,Cuti Romero,Montiel,Palacios,Garnacho,Mac Allister
+Garnacho,Acuña,Paredes,Armani,Di Maria,Tagliafico,De Paul,Rulli,Enzo Fernandez,Otamendi,Cuti Romero,Messi,Nico Gonzalez,Montiel,Molina
+Acuña,Enzo Fernandez,Otamendi,Dibu Martinez,Montiel,Molina,Palacios,Rulli,Correa,Paredes,Guido Rodriguez,Dybala,Nico Gonzalez,Lautaro Martinez,Messi
+Lo Celso,Montiel,Messi,Otamendi,Licha Martinez,Garnacho,Guido Rodriguez,De Paul,Cuti Romero,Tagliafico,Rulli,Enzo Fernandez,Mac Allister,Correa,Paredes
+Palacios,Otamendi,Guido Rodriguez,Correa,Julian Alvarez,Enzo Fernandez,Nico Gonzalez,Dibu Martinez,Di Maria,Montiel,Acuña,Tagliafico,Paredes,Lautaro Martinez,Armani
+Mac Allister,Enzo Fernandez,Correa,Dibu Martinez,De Paul,Nico Gonzalez,Paredes,Julian Alvarez,Guido Rodriguez,Lautaro Martinez,Acuña,Pezzella,Garnacho,Palacios,Cuti Romero
+Acuña,Paredes,Tagliafico,Montiel,Dybala,Messi,Di Maria,Rulli,Molina,Lo Celso,Guido Rodriguez,Lautaro Martinez,Garnacho,Armani,Dibu Martinez
+Rulli,Tagliafico,Otamendi,Palacios,Molina,Mac Allister,Lo Celso,Di Maria,Correa,Enzo Fernandez,Pezzella,Lautaro Martinez,Julian Alvarez,Cuti Romero,De Paul
+Correa,Cuti Romero,Paredes,Messi,Guido Rodriguez,Pezzella,Lo Celso,Dybala,Otamendi,Julian Alvarez,Nico Gonzalez,Acuña,De Paul,Lautaro Martinez,Dibu Martinez

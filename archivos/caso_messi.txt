@@ -1,0 +1,20 @@
+Messi,Enzo Fernandez,Garnacho
+Messi,Dibu Martinez,Correa
+Messi,Tagliafico,De Paul
+Messi,Otamendi,Licha Martinez
+Messi,Messi,Enzo Fernandez
+Messi,Cuti Romero,De Paul
+Messi,Molina,Enzo Fernandez
+Messi,Licha Martinez,Guido Rodriguez
+Messi,Lautaro Martinez,Cuti Romero
+Messi,Di Maria,Guido Rodriguez
+Messi,Cuti Romero,De Paul
+Messi,Garnacho,Garnacho
+Messi,Armani,Palacios
+Messi,Garnacho,Enzo Fernandez
+Messi,Messi,Palacios
+Messi,Cuti Romero,Montiel
+Messi,Otamendi,Garnacho
+Messi,Armani,Otamendi
+Messi,Acuña,Acuña
+Messi,Dibu Martinez,Mac Allister

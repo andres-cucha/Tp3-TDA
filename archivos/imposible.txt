@@ -1,0 +1,20 @@
+Lautaro Martinez,Otamendi,Armani
+Correa,Dybala,Armani
+Guido Rodriguez,Correa,Molina
+Molina,Licha Martinez,Messi
+Pezzella,Otamendi,Licha Martinez
+Pezzella,Lo Celso,De Paul
+Garnacho,Nico Gonzalez,Mac Allister
+Julian Alvarez,Paredes,Guido Rodriguez
+Pezzella,Lautaro Martinez,Mac Allister
+Palacios,Molina,Dibu Martinez
+
+Palacios,Guido Rodriguez,Julian Alvarez
+De Paul,Pezzella,Paredes
+Lo Celso,Julian Alvarez,Armani
+Enzo Fernandez,Mac Allister,Molina
+Acuña,Pezzella,Mac Allister
+Tagliafico,Enzo Fernandez,Messi
+Molina,Cuti Romero,Otamendi
+Garnacho,Di Maria,Paredes
+Licha Martinez,Messi,Lautaro Martinez
